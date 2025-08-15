@@ -1,0 +1,792 @@
+# Page snapshot
+
+```yaml
+- link "Flipkart":
+  - /url: /
+  - img "Flipkart"
+- link "Explore Plus":
+  - /url: /plus
+  - text: Explore Plus
+  - img
+- textbox "Search for products, brands and more": One Plus Mobile
+- button:
+  - img
+- link "Login":
+  - /url: /account/login?ret=/search%3Fq%3DOne%2520Plus%2520Mobile%26otracker%3Dsearch%26otracker1%3Dsearch%26marketplace%3DFLIPKART%26as-show%3Doff%26as%3Doff
+- link "Become a Seller":
+  - /url: https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect
+- text: More
+- img
+- link "Cart":
+  - /url: /viewcart?exploreMode=true&preference=FLIPKART
+  - img
+  - text: Cart
+- text: Electronics
+- img
+- text: TVs & Appliances
+- img
+- text: Men
+- img
+- text: Women
+- img
+- text: Baby & Kids
+- img
+- text: Home & Furniture
+- img
+- text: Sports, Books & More
+- img
+- link "Flights":
+  - /url: /travel/flights?otracker=nmenu_Flights
+- link "Offer Zone":
+  - /url: /offers-list/top-deals?screen=dynamic&pk=themeViews%3DDT-OMU-A2%3ADT-OMU~widgetType%3DdealCard~contentType%3Dneo&otracker=nmenu_offer-zone
+- text: Filters CATEGORIES
+- img
+- link "Mobiles & Accessories":
+  - /url: /mobiles-accessories/pr?sid=tyy&q=One+Plus+Mobile&otracker=categorytree
+- img
+- link "Mobiles":
+  - /url: /mobiles/pr?sid=tyy,4io&q=One+Plus+Mobile&otracker=categorytree
+- text: Price . . . . . .
+- combobox:
+  - option "Min" [selected]
+  - option "₹10000"
+  - option "₹15000"
+  - option "₹20000"
+  - option "₹30000"
+- text: to
+- combobox:
+  - option "₹10000"
+  - option "₹15000"
+  - option "₹20000"
+  - option "₹30000"
+  - option "₹30000+" [selected]
+- text: Brand
+- img
+- img
+- textbox "Search Brand"
+- text: Apple Google MOTOROLA vivo OPPO Infinix 136 MORE
+- img
+- text: "? Customer Ratings"
+- img
+- text: GST Invoice Available
+- img
+- text: RAM
+- img
+- text: 4 GB 3 GB 2 GB 1GB and Below 8 GB and Above 6 GB 6 GB Above Internal Storage
+- img
+- text: Battery Capacity
+- img
+- text: Screen Size
+- img
+- text: Primary Camera
+- img
+- text: Secondary Camera
+- img
+- text: Processor Brand
+- img
+- text: Speciality
+- img
+- text: Resolution Type
+- img
+- text: Operating System
+- img
+- text: Network Type
+- img
+- text: Sim Type
+- img
+- text: Offers
+- img
+- text: Special Price Buy More, Save More No Cost EMI Features
+- img
+- text: Type
+- img
+- text: Number of Cores
+- img
+- text: Availability
+- img
+- text: Discount
+- img
+- text: 50% or more 40% or more 30% or more 20% or more 10% or more Operating System Version Name
+- img
+- text: Clock Speed
+- img
+- link "Need help? Help me decide Buying Guide":
+  - /url: /buying-guide/mobiles?sid=tyy,4io&otracker=bg_from_browse_lhs
+  - text: Need help? Help me decide
+  - img
+  - img "Buying Guide"
+- link "Home":
+  - /url: /
+- img
+- link "Mobiles & Accessories":
+  - /url: /mobiles-accessories/pr?sid=tyy&marketplace=FLIPKART
+- img
+- link "Mobiles":
+  - /url: /mobiles/pr?sid=tyy,4io&marketplace=FLIPKART
+- text: Showing 1 – 24 of 6,012 results for "oneplus mobile" Show results for
+- link "One Plus Mobile":
+  - /url: /search?q=One+Plus+Mobile&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&augment=false
+- text: instead Sort By Relevance Popularity Price -- Low to High Price -- High to Low Newest First
+- link "OnePlus Nord CE4 lite 5G (SUPER SILVER, 128 GB) Add to Compare OnePlus Nord CE4 lite 5G (SUPER SILVER, 128 GB) 4.4 26,586 Ratings & 1,278 Reviews • 8 GB RAM | 128 GB ROM • 16.94 cm (6.67 inch) Display • 50MP Rear Camera • 5500 mAh Battery • 1 year ₹17,130 ₹20,999 18% off Only 2 left Upto ₹14,250 Off on Exchange":
+  - /url: /oneplus-nord-ce4-lite-5g-super-silver-128-gb/p/itm8fd5fdf300955?pid=MOBH25ZDPHNF38XJ&lid=LSTMOBH25ZDPHNF38XJVHNZIX&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBH25ZDPHNF38XJ.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord CE4 lite 5G (SUPER SILVER, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus Nord CE4 lite 5G (SUPER SILVER, 128 GB) 4.4
+  - img
+  - text: 26,586 Ratings & 1,278 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • 1 year
+  - text: ₹17,130 ₹20,999 18% off
+  - img
+  - text: Only 2 left Upto ₹14,250 Off on Exchange
+- link "OnePlus Nord CE4 lite 5G (MEGA BLUE, 128 GB) Add to Compare OnePlus Nord CE4 lite 5G (MEGA BLUE, 128 GB) 4.4 26,586 Ratings & 1,278 Reviews • 8 GB RAM | 128 GB ROM • 16.94 cm (6.67 inch) Display • 50MP Rear Camera • 5500 mAh Battery • 1 year ₹17,099 ₹20,999 18% off Only 1 left Upto ₹14,250 Off on Exchange":
+  - /url: /oneplus-nord-ce4-lite-5g-mega-blue-128-gb/p/itm8fd5fdf300955?pid=MOBH25Z9CCTDDN3J&lid=LSTMOBH25Z9CCTDDN3JMS6AY5&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_2&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBH25Z9CCTDDN3J.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord CE4 lite 5G (MEGA BLUE, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus Nord CE4 lite 5G (MEGA BLUE, 128 GB) 4.4
+  - img
+  - text: 26,586 Ratings & 1,278 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • 1 year
+  - text: ₹17,099 ₹20,999 18% off
+  - img
+  - text: Only 1 left Upto ₹14,250 Off on Exchange
+- link "OnePlus Nord CE4 lite 5G (ULTRA ORANGE, 128 GB) Add to Compare OnePlus Nord CE4 lite 5G (ULTRA ORANGE, 128 GB) 4.4 26,586 Ratings & 1,278 Reviews • 8 GB RAM | 128 GB ROM • 16.94 cm (6.67 inch) Display • 50MP Rear Camera • 5500 mAh Battery • 1 year ₹17,087 ₹20,999 18% off Only few left Upto ₹14,250 Off on Exchange":
+  - /url: /oneplus-nord-ce4-lite-5g-ultra-orange-128-gb/p/itm8fd5fdf300955?pid=MOBH25ZEZBY3ZGBF&lid=LSTMOBH25ZEZBY3ZGBFS6UMKM&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBH25ZEZBY3ZGBF.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord CE4 lite 5G (ULTRA ORANGE, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus Nord CE4 lite 5G (ULTRA ORANGE, 128 GB) 4.4
+  - img
+  - text: 26,586 Ratings & 1,278 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • 1 year
+  - text: ₹17,087 ₹20,999 18% off
+  - img
+  - text: Only few left Upto ₹14,250 Off on Exchange
+- link "OnePlus Nord CE5 5G (Nexus Blue, 128 GB) Add to Compare OnePlus Nord CE5 5G (Nexus Blue, 128 GB) 4.4 630 Ratings & 43 Reviews • 8 GB RAM | 128 GB ROM • 17.2 cm (6.77 inch) Display • 50MP Rear Camera • 7100 mAh Battery • 1 Year Warranty ₹24,096 ₹24,999 3% off Only 1 left Bank Offer":
+  - /url: /oneplus-nord-ce5-5g-nexus-blue-128-gb/p/itm9259708fe4e3c?pid=MOBHEYWZJTSYPHBM&lid=LSTMOBHEYWZJTSYPHBMUJMRXY&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_4&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBHEYWZJTSYPHBM.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord CE5 5G (Nexus Blue, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus Nord CE5 5G (Nexus Blue, 128 GB) 4.4
+  - img
+  - text: 630 Ratings & 43 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 17.2 cm (6.77 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 7100 mAh Battery
+    - listitem: • 1 Year Warranty
+  - text: ₹24,096 ₹24,999 3% off
+  - img
+  - text: Only 1 left Bank Offer
+- link "OnePlus Nord 5�5G (Marble Sands, 256 GB) Add to Compare OnePlus Nord 5�5G (Marble Sands, 256 GB) 4.6 111 Ratings & 8 Reviews • 8 GB RAM | 256 GB ROM • 17.35 cm (6.83 inch) Full HD+ AMOLED Display • 50MP + 50MP + 8MP | 50MP Front Camera • 6800 mAh Battery • Qualcomm® Snapdragon™ 8s Gen 3 Mobile Platform Processor • 1 Year manufacturer ₹31,999 ₹34,999 8% off Only 1 left Upto ₹27,200 Off on Exchange":
+  - /url: /oneplus-nord-55g-marble-sands-256-gb/p/itmfd2cc9a18a7be?pid=MOBHDVHG5GV3JFFC&lid=LSTMOBHDVHG5GV3JFFCWKQTZ4&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_5&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBHDVHG5GV3JFFC.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord 5�5G (Marble Sands, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus Nord 5�5G (Marble Sands, 256 GB) 4.6
+  - img
+  - text: 111 Ratings & 8 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 256 GB ROM
+    - listitem: • 17.35 cm (6.83 inch) Full HD+ AMOLED Display
+    - listitem: • 50MP + 50MP + 8MP | 50MP Front Camera
+    - listitem: • 6800 mAh Battery
+    - listitem: • Qualcomm® Snapdragon™ 8s Gen 3 Mobile Platform Processor
+    - listitem: • 1 Year manufacturer
+  - text: ₹31,999 ₹34,999 8% off
+  - img
+  - text: Only 1 left Upto ₹27,200 Off on Exchange
+- link "OnePlus Nord CE4 lite 5G (MEGA BLUE, 256 GB) Currently unavailable Add to Compare OnePlus Nord CE4 lite 5G (MEGA BLUE, 256 GB) 4.4 26,586 Ratings & 1,278 Reviews • 8 GB RAM | 256 GB ROM • 16.94 cm (6.67 inch) Display • 50MP Rear Camera • 5500 mAh Battery • 1 year ₹20,592 ₹23,999 14% off Upto ₹17,600 Off on Exchange Bank Offer":
+  - /url: /oneplus-nord-ce4-lite-5g-mega-blue-256-gb/p/itm8fd5fdf300955?pid=MOBH25ZFCUBEFZ4X&lid=LSTMOBH25ZFCUBEFZ4XBPOQYS&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_6&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBH25ZFCUBEFZ4X.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord CE4 lite 5G (MEGA BLUE, 256 GB)"
+  - text: Currently unavailable Add to Compare
+  - img
+  - text: OnePlus Nord CE4 lite 5G (MEGA BLUE, 256 GB) 4.4
+  - img
+  - text: 26,586 Ratings & 1,278 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 256 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • 1 year
+  - text: ₹20,592 ₹23,999 14% off
+  - img
+  - text: Upto ₹17,600 Off on Exchange Bank Offer
+- link "OnePlus Nord CE4 lite 5G (SUPER SILVER, 256 GB) Currently unavailable Add to Compare OnePlus Nord CE4 lite 5G (SUPER SILVER, 256 GB) 4.4 26,586 Ratings & 1,278 Reviews • 8 GB RAM | 256 GB ROM • 16.94 cm (6.67 inch) Display • 50MP Rear Camera • 5500 mAh Battery • 1 year ₹20,899 ₹23,999 12% off Upto ₹17,800 Off on Exchange Bank Offer":
+  - /url: /oneplus-nord-ce4-lite-5g-super-silver-256-gb/p/itm8fd5fdf300955?pid=MOBH25ZHYFXEKGDB&lid=LSTMOBH25ZHYFXEKGDBNQAXKY&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_7&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBH25ZHYFXEKGDB.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord CE4 lite 5G (SUPER SILVER, 256 GB)"
+  - text: Currently unavailable Add to Compare
+  - img
+  - text: OnePlus Nord CE4 lite 5G (SUPER SILVER, 256 GB) 4.4
+  - img
+  - text: 26,586 Ratings & 1,278 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 256 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • 1 year
+  - text: ₹20,899 ₹23,999 12% off
+  - img
+  - text: Upto ₹17,800 Off on Exchange Bank Offer
+- link "OnePlus Nord CE4 (Dark Chrome, 128 GB) Add to Compare OnePlus Nord CE4 (Dark Chrome, 128 GB) 4.4 24,148 Ratings & 1,356 Reviews • 8 GB RAM | 128 GB ROM • 17.02 cm (6.7 inch) Display • 50MP Rear Camera • 5500 mAh Battery • OxygenOS 14.0 Processor • Domestic Warranty 1 Year For Handset And 6 month For Accessories. ₹20,500 ₹24,999 17% off Only few left Bank Offer":
+  - /url: /oneplus-nord-ce4-dark-chrome-128-gb/p/itm5a09089114afb?pid=MOBGZNH6QUUVZGZN&lid=LSTMOBGZNH6QUUVZGZNYLCDQZ&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_8&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBGZNH6QUUVZGZN.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord CE4 (Dark Chrome, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus Nord CE4 (Dark Chrome, 128 GB) 4.4
+  - img
+  - text: 24,148 Ratings & 1,356 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 17.02 cm (6.7 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • OxygenOS 14.0 Processor
+    - listitem: • Domestic Warranty 1 Year For Handset And 6 month For Accessories.
+  - text: ₹20,500 ₹24,999 17% off
+  - img
+  - text: Only few left Bank Offer
+- link "OnePlus 13s 5G (Black Velvet, 256 GB) Add to Compare OnePlus 13s 5G (Black Velvet, 256 GB) 4.5 340 Ratings & 29 Reviews • 12 GB RAM | 256 GB ROM • 16.05 cm (6.32 inch) Display • 50MP Rear Camera • 5850 mAh Battery • 1 Year Warranty ₹52,995 ₹57,999 8% off Only few left Upto ₹45,650 Off on Exchange":
+  - /url: /oneplus-13s-5g-black-velvet-256-gb/p/itmb6d10cf953b5d?pid=MOBHCTQTGUGEJHMG&lid=LSTMOBHCTQTGUGEJHMG7BSKQQ&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_9&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBHCTQTGUGEJHMG.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus 13s 5G (Black Velvet, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus 13s 5G (Black Velvet, 256 GB) 4.5
+  - img
+  - text: 340 Ratings & 29 Reviews
+  - list:
+    - listitem: • 12 GB RAM | 256 GB ROM
+    - listitem: • 16.05 cm (6.32 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5850 mAh Battery
+    - listitem: • 1 Year Warranty
+  - text: ₹52,995 ₹57,999 8% off
+  - img
+  - text: Only few left Upto ₹45,650 Off on Exchange
+- link "OnePlus Nord CE4 lite 5G (ULTRA ORANGE, 256 GB) Add to Compare OnePlus Nord CE4 lite 5G (ULTRA ORANGE, 256 GB) 4.4 26,586 Ratings & 1,278 Reviews • 8 GB RAM | 256 GB ROM • 16.94 cm (6.67 inch) Display • 50MP Rear Camera • 5500 mAh Battery • 1 year ₹21,999 ₹23,999 8% off Only few left Upto ₹18,400 Off on Exchange":
+  - /url: /oneplus-nord-ce4-lite-5g-ultra-orange-256-gb/p/itm8fd5fdf300955?pid=MOBH25ZHN4MRWKFT&lid=LSTMOBH25ZHN4MRWKFTMZKS8E&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_10&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBH25ZHN4MRWKFT.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord CE4 lite 5G (ULTRA ORANGE, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus Nord CE4 lite 5G (ULTRA ORANGE, 256 GB) 4.4
+  - img
+  - text: 26,586 Ratings & 1,278 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 256 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • 1 year
+  - text: ₹21,999 ₹23,999 8% off
+  - img
+  - text: Only few left Upto ₹18,400 Off on Exchange
+- link "OnePlus 13R 5g (Astral Trail, 256 GB) Add to Compare OnePlus 13R 5g (Astral Trail, 256 GB) 4.5 2,486 Ratings & 181 Reviews • 12 GB RAM | 256 GB ROM • 17.22 cm (6.78 inch) Display • 50MP Rear Camera • 6000 mAh Battery • 1 year manufacturer warranty for device and 1 year manufacturer warranty for in-box accessories including batteries from the date of purchase ₹38,630 ₹44,999 14% off Only few left Upto ₹32,950 Off on Exchange":
+  - /url: /oneplus-13r-5g-astral-trail-256-gb/p/itmff6561809fab8?pid=MOBH8EVKZHTE7A32&lid=LSTMOBH8EVKZHTE7A32CJDHBZ&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_11&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBH8EVKZHTE7A32.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus 13R 5g (Astral Trail, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus 13R 5g (Astral Trail, 256 GB) 4.5
+  - img
+  - text: 2,486 Ratings & 181 Reviews
+  - list:
+    - listitem: • 12 GB RAM | 256 GB ROM
+    - listitem: • 17.22 cm (6.78 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 6000 mAh Battery
+    - listitem: • 1 year manufacturer warranty for device and 1 year manufacturer warranty for in-box accessories including batteries from the date of purchase
+  - text: ₹38,630 ₹44,999 14% off
+  - img
+  - text: Only few left Upto ₹32,950 Off on Exchange
+- link "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 128 GB) Currently unavailable Add to Compare OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 128 GB) 4.4 1,73,143 Ratings & 8,706 Reviews • 8 GB RAM | 128 GB ROM • 17.07 cm (6.72 inch) Display • 108MP Rear Camera • 5000 mAh Battery • Domestic Warranty of 12 months on phone & 6 months on accessories ₹14,400 ₹19,999 27% off Upto ₹12,100 Off on Exchange Bank Offer":
+  - /url: /oneplus-nord-ce-3-lite-5g-chromatic-gray-128-gb/p/itm2cd5a4e659035?pid=MOBGZJ42KHUZZKMN&lid=LSTMOBGZJ42KHUZZKMNO8NR7Z&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_12&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBGZJ42KHUZZKMN.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 128 GB)"
+  - text: Currently unavailable Add to Compare
+  - img
+  - text: OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 128 GB) 4.4
+  - img
+  - text: 1,73,143 Ratings & 8,706 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 17.07 cm (6.72 inch) Display
+    - listitem: • 108MP Rear Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Domestic Warranty of 12 months on phone & 6 months on accessories
+  - text: ₹14,400 ₹19,999 27% off
+  - img
+  - text: Upto ₹12,100 Off on Exchange Bank Offer
+- link "OnePlus Nord 4 5G (Oasis Green, 256 GB) Add to Compare OnePlus Nord 4 5G (Oasis Green, 256 GB) 4.5 3,855 Ratings & 241 Reviews • 8 GB RAM | 256 GB ROM • 17.12 cm (6.74 inch) Display • 50MP Rear Camera • 5500 mAh Battery • 1 Year ₹27,868 ₹32,999 15% off Only few left Bank Offer":
+  - /url: /oneplus-nord-4-5g-oasis-green-256-gb/p/itmed83e7926e3e5?pid=MOBH3YA8ZFTVSREP&lid=LSTMOBH3YA8ZFTVSREPIOAZ0G&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_13&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBH3YA8ZFTVSREP.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord 4 5G (Oasis Green, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus Nord 4 5G (Oasis Green, 256 GB) 4.5
+  - img
+  - text: 3,855 Ratings & 241 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 256 GB ROM
+    - listitem: • 17.12 cm (6.74 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • 1 Year
+  - text: ₹27,868 ₹32,999 15% off
+  - img
+  - text: Only few left Bank Offer
+- link "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 128 GB) Currently unavailable Add to Compare OnePlus Nord CE 3 Lite 5G (Pastel Lime, 128 GB) 4.4 1,73,143 Ratings & 8,706 Reviews • 8 GB RAM | 128 GB ROM • 17.07 cm (6.72 inch) Display • 108MP Rear Camera • 5000 mAh Battery • Domestic Warranty of 12 months on phone & 6 months on accessories ₹14,400 ₹19,999 27% off Upto ₹12,100 Off on Exchange Bank Offer":
+  - /url: /oneplus-nord-ce-3-lite-5g-pastel-lime-128-gb/p/itm2cd5a4e659035?pid=MOBGZJ3WM5SGTGVZ&lid=LSTMOBGZJ3WM5SGTGVZOTJNOL&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_14&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBGZJ3WM5SGTGVZ.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 128 GB)"
+  - text: Currently unavailable Add to Compare
+  - img
+  - text: OnePlus Nord CE 3 Lite 5G (Pastel Lime, 128 GB) 4.4
+  - img
+  - text: 1,73,143 Ratings & 8,706 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 17.07 cm (6.72 inch) Display
+    - listitem: • 108MP Rear Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Domestic Warranty of 12 months on phone & 6 months on accessories
+  - text: ₹14,400 ₹19,999 27% off
+  - img
+  - text: Upto ₹12,100 Off on Exchange Bank Offer
+- link "OnePlus Nord CE4 (Celadon Marble, 128 GB) Add to Compare OnePlus Nord CE4 (Celadon Marble, 128 GB) 4.4 24,148 Ratings & 1,356 Reviews • 8 GB RAM | 128 GB ROM • 17.02 cm (6.7 inch) Display • 50MP Rear Camera • 5500 mAh Battery • OxygenOS 14.0 Processor • Domestic Warranty 1 Year For Handset And 6 month For Accessories. ₹21,227 ₹24,999 15% off Only 1 left Upto ₹17,950 Off on Exchange":
+  - /url: /oneplus-nord-ce4-celadon-marble-128-gb/p/itm5a09089114afb?pid=MOBGZN8YJ4KZ2KNH&lid=LSTMOBGZN8YJ4KZ2KNHLCMBRN&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_15&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBGZN8YJ4KZ2KNH.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord CE4 (Celadon Marble, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus Nord CE4 (Celadon Marble, 128 GB) 4.4
+  - img
+  - text: 24,148 Ratings & 1,356 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 17.02 cm (6.7 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • OxygenOS 14.0 Processor
+    - listitem: • Domestic Warranty 1 Year For Handset And 6 month For Accessories.
+  - text: ₹21,227 ₹24,999 15% off
+  - img
+  - text: Only 1 left Upto ₹17,950 Off on Exchange
+- link "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 256 GB) Currently unavailable Add to Compare OnePlus Nord CE 3 Lite 5G (Pastel Lime, 256 GB) 4.4 1,73,143 Ratings & 8,706 Reviews • 8 GB RAM | 256 GB ROM • 17.07 cm (6.72 inch) Display • 108MP Rear Camera • 5000 mAh Battery • Domestic Warranty of 12 months on phone & 6 months on accessories ₹17,580 ₹21,999 20% off Upto ₹14,850 Off on Exchange Bank Offer":
+  - /url: /oneplus-nord-ce-3-lite-5g-pastel-lime-256-gb/p/itm2cd5a4e659035?pid=MOBGZJ3ZFQ8AKKRS&lid=LSTMOBGZJ3ZFQ8AKKRSWD05QO&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_16&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBGZJ3ZFQ8AKKRS.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 256 GB)"
+  - text: Currently unavailable Add to Compare
+  - img
+  - text: OnePlus Nord CE 3 Lite 5G (Pastel Lime, 256 GB) 4.4
+  - img
+  - text: 1,73,143 Ratings & 8,706 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 256 GB ROM
+    - listitem: • 17.07 cm (6.72 inch) Display
+    - listitem: • 108MP Rear Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Domestic Warranty of 12 months on phone & 6 months on accessories
+  - text: ₹17,580 ₹21,999 20% off
+  - img
+  - text: Upto ₹14,850 Off on Exchange Bank Offer
+- link "OnePlus Nord CE4 (Dark Chrome, 256 GB) Add to Compare OnePlus Nord CE4 (Dark Chrome, 256 GB) 4.4 24,148 Ratings & 1,356 Reviews • 8 GB RAM | 256 GB ROM • 17.02 cm (6.7 inch) Display • 50MP Rear Camera • 5500 mAh Battery • OxygenOS 14.0 Processor • Domestic Warranty 1 Year For Handset And 6 month For Accessories. ₹24,678 ₹26,999 8% off Only 1 left Upto ₹20,600 Off on Exchange":
+  - /url: /oneplus-nord-ce4-dark-chrome-256-gb/p/itm5a09089114afb?pid=MOBGZZJHPCGUQWVM&lid=LSTMOBGZZJHPCGUQWVM4OOMTQ&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_17&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBGZZJHPCGUQWVM.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord CE4 (Dark Chrome, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus Nord CE4 (Dark Chrome, 256 GB) 4.4
+  - img
+  - text: 24,148 Ratings & 1,356 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 256 GB ROM
+    - listitem: • 17.02 cm (6.7 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • OxygenOS 14.0 Processor
+    - listitem: • Domestic Warranty 1 Year For Handset And 6 month For Accessories.
+  - text: ₹24,678 ₹26,999 8% off
+  - img
+  - text: Only 1 left Upto ₹20,600 Off on Exchange
+- link "OnePlus Nord 4 5G (Mercurial Silver, 256 GB) Currently unavailable Add to Compare OnePlus Nord 4 5G (Mercurial Silver, 256 GB) 4.5 660 Ratings & 31 Reviews • 12 GB RAM | 256 GB ROM • 17.12 cm (6.74 inch) Display • 50MP Rear Camera • 5500 mAh Battery • 1 Year ₹29,999 ₹35,999 16% off Upto ₹25,000 Off on Exchange Bank Offer":
+  - /url: /oneplus-nord-4-5g-mercurial-silver-256-gb/p/itmed83e7926e3e5?pid=MOBH3YA8H6CEDSGB&lid=LSTMOBH3YA8H6CEDSGBLWDDTY&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_18&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBH3YA8H6CEDSGB.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord 4 5G (Mercurial Silver, 256 GB)"
+  - text: Currently unavailable Add to Compare
+  - img
+  - text: OnePlus Nord 4 5G (Mercurial Silver, 256 GB) 4.5
+  - img
+  - text: 660 Ratings & 31 Reviews
+  - list:
+    - listitem: • 12 GB RAM | 256 GB ROM
+    - listitem: • 17.12 cm (6.74 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • 1 Year
+  - text: ₹29,999 ₹35,999 16% off
+  - img
+  - text: Upto ₹25,000 Off on Exchange Bank Offer
+- link "OnePlus 13R 5G (Nebula Noir, 512 GB) Add to Compare OnePlus 13R 5G (Nebula Noir, 512 GB) 4.5 1,156 Ratings & 83 Reviews • 16 GB RAM | 512 GB ROM • 17.22 cm (6.78 inch) Display • 50MP Rear Camera • 6000 mAh Battery • 1 year manufacturer warranty for device and 1 year manufacturer warranty for in-box accessories including batteries from the date of purchase ₹44,999 ₹51,999 13% off Only few left Upto ₹38,550 Off on Exchange":
+  - /url: /oneplus-13r-5g-nebula-noir-512-gb/p/itmff6561809fab8?pid=MOBH8H4HTS84UEQN&lid=LSTMOBH8H4HTS84UEQNHCMQXI&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_19&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBH8H4HTS84UEQN.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus 13R 5G (Nebula Noir, 512 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus 13R 5G (Nebula Noir, 512 GB) 4.5
+  - img
+  - text: 1,156 Ratings & 83 Reviews
+  - list:
+    - listitem: • 16 GB RAM | 512 GB ROM
+    - listitem: • 17.22 cm (6.78 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 6000 mAh Battery
+    - listitem: • 1 year manufacturer warranty for device and 1 year manufacturer warranty for in-box accessories including batteries from the date of purchase
+  - text: ₹44,999 ₹51,999 13% off
+  - img
+  - text: Only few left Upto ₹38,550 Off on Exchange
+- link "OnePlus Nord 4 5G (Mercurial Silver, 256 GB) Add to Compare OnePlus Nord 4 5G (Mercurial Silver, 256 GB) 4.5 3,855 Ratings & 241 Reviews • 8 GB RAM | 256 GB ROM • 17.12 cm (6.74 inch) Display • 50MP Rear Camera • 5500 mAh Battery • 1 Year ₹27,676 ₹32,999 16% off Only 1 left Bank Offer":
+  - /url: /oneplus-nord-4-5g-mercurial-silver-256-gb/p/itmed83e7926e3e5?pid=MOBH3YA8UXSNRSXW&lid=LSTMOBH3YA8UXSNRSXWSKVQHH&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_20&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBH3YA8UXSNRSXW.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord 4 5G (Mercurial Silver, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus Nord 4 5G (Mercurial Silver, 256 GB) 4.5
+  - img
+  - text: 3,855 Ratings & 241 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 256 GB ROM
+    - listitem: • 17.12 cm (6.74 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • 1 Year
+  - text: ₹27,676 ₹32,999 16% off
+  - img
+  - text: Only 1 left Bank Offer
+- link "OnePlus 13R 5G (Nebula Noir, 256 GB) Add to Compare OnePlus 13R 5G (Nebula Noir, 256 GB) 4.5 2,486 Ratings & 181 Reviews • 12 GB RAM | 256 GB ROM • 17.22 cm (6.78 inch) Display • 50MP Rear Camera • 6000 mAh Battery • 1 year manufacturer warranty for device and 1 year manufacturer warranty for in-box accessories including batteries from the date of purchase ₹38,632 ₹44,999 14% off Only few left Upto ₹32,950 Off on Exchange":
+  - /url: /oneplus-13r-5g-nebula-noir-256-gb/p/itmff6561809fab8?pid=MOBH8EWQ6GUDHGFK&lid=LSTMOBH8EWQ6GUDHGFKKIKKSM&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_21&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBH8EWQ6GUDHGFK.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus 13R 5G (Nebula Noir, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus 13R 5G (Nebula Noir, 256 GB) 4.5
+  - img
+  - text: 2,486 Ratings & 181 Reviews
+  - list:
+    - listitem: • 12 GB RAM | 256 GB ROM
+    - listitem: • 17.22 cm (6.78 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 6000 mAh Battery
+    - listitem: • 1 year manufacturer warranty for device and 1 year manufacturer warranty for in-box accessories including batteries from the date of purchase
+  - text: ₹38,632 ₹44,999 14% off
+  - img
+  - text: Only few left Upto ₹32,950 Off on Exchange
+- link "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 256 GB) Currently unavailable Add to Compare OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 256 GB) 4.4 1,73,143 Ratings & 8,706 Reviews • 8 GB RAM | 256 GB ROM • 17.07 cm (6.72 inch) Display • 108MP Rear Camera • 5000 mAh Battery • Domestic Warranty of 12 months on phone & 6 months on accessories ₹17,799 ₹21,999 19% off Bank Offer":
+  - /url: /oneplus-nord-ce-3-lite-5g-chromatic-gray-256-gb/p/itm2cd5a4e659035?pid=MOBGZJ45PS4AQ7BA&lid=LSTMOBGZJ45PS4AQ7BA8DGAMY&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_22&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBGZJ45PS4AQ7BA.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 256 GB)"
+  - text: Currently unavailable Add to Compare
+  - img
+  - text: OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 256 GB) 4.4
+  - img
+  - text: 1,73,143 Ratings & 8,706 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 256 GB ROM
+    - listitem: • 17.07 cm (6.72 inch) Display
+    - listitem: • 108MP Rear Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Domestic Warranty of 12 months on phone & 6 months on accessories
+  - text: ₹17,799 ₹21,999 19% off
+  - img
+  - text: Bank Offer
+- link "OnePlus Nord CE4 (Celadon Marble, 256 GB) Add to Compare OnePlus Nord CE4 (Celadon Marble, 256 GB) 4.4 24,148 Ratings & 1,356 Reviews • 8 GB RAM | 256 GB ROM • 17.02 cm (6.7 inch) Display • 50MP Rear Camera • 5500 mAh Battery • OxygenOS 14.0 Processor • Domestic Warranty 1 Year For Handset And 6 month For Accessories. ₹24,730 ₹26,999 8% off Only 1 left Upto ₹20,600 Off on Exchange":
+  - /url: /oneplus-nord-ce4-celadon-marble-256-gb/p/itm5a09089114afb?pid=MOBGZZGY8FRH5Y7R&lid=LSTMOBGZZGY8FRH5Y7RNJLEBM&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_23&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBGZZGY8FRH5Y7R.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord CE4 (Celadon Marble, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: OnePlus Nord CE4 (Celadon Marble, 256 GB) 4.4
+  - img
+  - text: 24,148 Ratings & 1,356 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 256 GB ROM
+    - listitem: • 17.02 cm (6.7 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • OxygenOS 14.0 Processor
+    - listitem: • Domestic Warranty 1 Year For Handset And 6 month For Accessories.
+  - text: ₹24,730 ₹26,999 8% off
+  - img
+  - text: Only 1 left Upto ₹20,600 Off on Exchange
+- link "OnePlus Nord 4 5G (Oasis Green, 128 GB) Currently unavailable Add to Compare OnePlus Nord 4 5G (Oasis Green, 128 GB) 4.5 3,855 Ratings & 241 Reviews • 8 GB RAM | 128 GB ROM • 17.12 cm (6.74 inch) Display • 50MP Rear Camera • 5500 mAh Battery • 1 Year ₹23,891 ₹29,999 20% off Bank Offer":
+  - /url: /oneplus-nord-4-5g-oasis-green-128-gb/p/itmed83e7926e3e5?pid=MOBH4QTPDMFY6E6G&lid=LSTMOBH4QTPDMFY6E6G6LK7AA&marketplace=FLIPKART&q=One+Plus+Mobile&store=tyy%2F4io&srno=s_1_24&otracker=search&otracker1=search&fm=organic&iid=c70cc9e9-e0ca-491e-9842-028f5919e4fd.MOBH4QTPDMFY6E6G.SEARCH&ppt=hp&ppn=homepage&ssid=iec25csntc0000001755258663205&qH=a4335dfe2c4a107c
+  - img "OnePlus Nord 4 5G (Oasis Green, 128 GB)"
+  - text: Currently unavailable Add to Compare
+  - img
+  - text: OnePlus Nord 4 5G (Oasis Green, 128 GB) 4.5
+  - img
+  - text: 3,855 Ratings & 241 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 17.12 cm (6.74 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • 1 Year
+  - text: ₹23,891 ₹29,999 20% off
+  - img
+  - text: Bank Offer
+- text: Page 1 of 251
+- navigation:
+  - link "1":
+    - /url: /search?q=One+Plus+Mobile&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=1
+  - link "2":
+    - /url: /search?q=One+Plus+Mobile&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=2
+  - link "3":
+    - /url: /search?q=One+Plus+Mobile&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=3
+  - link "4":
+    - /url: /search?q=One+Plus+Mobile&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=4
+  - link "5":
+    - /url: /search?q=One+Plus+Mobile&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=5
+  - link "6":
+    - /url: /search?q=One+Plus+Mobile&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=6
+  - link "7":
+    - /url: /search?q=One+Plus+Mobile&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=7
+  - link "8":
+    - /url: /search?q=One+Plus+Mobile&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=8
+  - link "9":
+    - /url: /search?q=One+Plus+Mobile&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=9
+  - link "10":
+    - /url: /search?q=One+Plus+Mobile&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=10
+  - link "Next":
+    - /url: /search?q=One+Plus+Mobile&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=2
+- text: Did you find what you were looking for? Yes No Reviews for Popular Oneplus Mobile
+- img "OnePlus Nord CE4 (Dark Chrome, 128 GB)"
+- link "1. OnePlus Nord CE4 (Dark Chro... 4.4 24,148 Ratings&1,356 Reviews ₹20,500 17% off":
+  - /url: /oneplus-nord-ce4-dark-chrome-128-gb/p/itm5a09089114afb?pid=MOBGZNH6QUUVZGZN&marketplace=FLIPKART
+  - text: 1. OnePlus Nord CE4 (Dark Chro... 4.4
+  - img
+  - text: 24,148 Ratings&1,356 Reviews ₹20,500 17% off
+- list:
+  - listitem: 8 GB RAM | 128 GB ROM
+  - listitem: 17.02 cm (6.7 inch) Display
+  - listitem: 50MP Rear Camera
+- text: Most Helpful Review 5
+- img
+- paragraph: Super!
+- text: Guys if you want big battery with super fast charger it should be great 😃 choice also snapdragon 7gen 3 chipset excellent gaming performance and also Camaro... Read full review
+- paragraph: Pankaj Chauhan
+- img
+- paragraph: Certified Buyer
+- paragraph: Apr, 2024
+- text: Recent Review 5
+- img
+- paragraph: Simply awesome
+- text: Excellent battery performance, Camera quality average,
+- paragraph: Shradhanjali Bhatta
+- img
+- paragraph: Certified Buyer
+- paragraph: 2 days ago
+- img "OnePlus Nord 4 5G (Mercurial Silver, 256 GB)"
+- link "2. OnePlus Nord 4 5G (Mercuria... 4.5 3,855 Ratings&241 Reviews ₹27,676 16% off":
+  - /url: /oneplus-nord-4-5g-mercurial-silver-256-gb/p/itmed83e7926e3e5?pid=MOBH3YA8UXSNRSXW&marketplace=FLIPKART
+  - text: 2. OnePlus Nord 4 5G (Mercuria... 4.5
+  - img
+  - text: 3,855 Ratings&241 Reviews ₹27,676 16% off
+- list:
+  - listitem: 8 GB RAM | 256 GB ROM
+  - listitem: 17.12 cm (6.74 inch) Display
+  - listitem: 50MP Rear Camera
+- text: Most Helpful Review 5
+- img
+- paragraph: Excellent
+- text: The phone's features, such as its camera, battery life, and display all good Value for Money
+- paragraph: Abdul Wadood
+- img
+- paragraph: Certified Buyer
+- paragraph: 10 months ago
+- text: Recent Review 5
+- img
+- paragraph: Super!
+- text: Mind blowing performance awesome look flexible unique design...worth it according to money
+- paragraph: Deepak Roy
+- img
+- paragraph: Certified Buyer
+- paragraph: 2 days ago
+- img "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 256 GB)"
+- link "3. OnePlus Nord CE 3 Lite 5G (... 4.4 1,73,143 Ratings&8,706 Reviews ₹17,580 20% off":
+  - /url: /oneplus-nord-ce-3-lite-5g-pastel-lime-256-gb/p/itm2cd5a4e659035?pid=MOBGZJ3ZFQ8AKKRS&marketplace=FLIPKART
+  - text: 3. OnePlus Nord CE 3 Lite 5G (... 4.4
+  - img
+  - text: 1,73,143 Ratings&8,706 Reviews ₹17,580 20% off
+- list:
+  - listitem: 8 GB RAM | 256 GB ROM
+  - listitem: 17.07 cm (6.72 inch) Display
+  - listitem: 108MP Rear Camera
+- text: Most Helpful Review 5
+- img
+- paragraph: Simply awesome
+- text: Camera is very good and battery backup is very good
+- paragraph: Deepak Patel
+- img
+- paragraph: Certified Buyer
+- paragraph: Nov, 2023
+- text: Recent Review 5
+- img
+- paragraph: Must buy!
+- text: So beautiful so beautiful
+- paragraph: S m uttam mohanty Bapun
+- img
+- paragraph: Certified Buyer
+- paragraph: 4 days ago
+- img "OnePlus 13R 5G (Nebula Noir, 512 GB)"
+- link "4. OnePlus 13R 5G (Nebula Noir... 4.5 1,156 Ratings&83 Reviews ₹44,999 13% off":
+  - /url: /oneplus-13r-5g-nebula-noir-512-gb/p/itmff6561809fab8?pid=MOBH8H4HTS84UEQN&marketplace=FLIPKART
+  - text: 4. OnePlus 13R 5G (Nebula Noir... 4.5
+  - img
+  - text: 1,156 Ratings&83 Reviews ₹44,999 13% off
+- list:
+  - listitem: 16 GB RAM | 512 GB ROM
+  - listitem: 17.22 cm (6.78 inch) Display
+  - listitem: 50MP Rear Camera
+- text: Most Helpful Review 5
+- img
+- paragraph: Best in the market!
+- text: Very nice camera nd battery backup super
+- paragraph: Mohanraj S
+- img
+- paragraph: Certified Buyer
+- paragraph: 3 months ago
+- text: Recent Review 3
+- img
+- paragraph: Decent product
+- text: Improve battery performance
+- paragraph: LUCKY (OM)
+- img
+- paragraph: Certified Buyer
+- paragraph: 6 days ago
+- img "OnePlus Nord CE5 5G (Nexus Blue, 128 GB)"
+- link "5. OnePlus Nord CE5 5G (Nexus ... 4.4 630 Ratings&43 Reviews ₹24,096 3% off":
+  - /url: /oneplus-nord-ce5-5g-nexus-blue-128-gb/p/itm9259708fe4e3c?pid=MOBHEYWZJTSYPHBM&marketplace=FLIPKART
+  - text: 5. OnePlus Nord CE5 5G (Nexus ... 4.4
+  - img
+  - text: 630 Ratings&43 Reviews ₹24,096 3% off
+- list:
+  - listitem: 8 GB RAM | 128 GB ROM
+  - listitem: 17.2 cm (6.77 inch) Display
+  - listitem: 50MP Rear Camera
+- text: Most Helpful Review 5
+- img
+- paragraph: Great product
+- text: Amazing device even it comes with sharing files and photos with iOS devices
+- paragraph: Manoj Kumar
+- img
+- paragraph: Certified Buyer
+- paragraph: 10 days ago
+- text: Recent Review 5
+- img
+- paragraph: Must buy!
+- text: Super sleek and optimised phone under 25k for base varient
+- paragraph: Mannan khan A
+- img
+- paragraph: Certified Buyer
+- paragraph: 3 days ago
+- contentinfo:
+  - text: ABOUT
+  - link "Contact Us":
+    - /url: /helpcentre?otracker=footer_navlinks
+  - link "About Us":
+    - /url: https://corporate.flipkart.net/corporate-home
+  - link "Careers":
+    - /url: https://www.flipkartcareers.com/?otracker=footer_navlinks
+  - link "Flipkart Stories":
+    - /url: http://stories.flipkart.com/?otracker=footer_navlinks
+  - link "Press":
+    - /url: http://stories.flipkart.com/category/top-stories/news/
+  - link "Corporate Information":
+    - /url: /corporate-information
+  - text: GROUP COMPANIES
+  - link "Myntra":
+    - /url: https://www.myntra.com/
+  - link "Cleartrip":
+    - /url: https://www.cleartrip.com/
+  - link "Shopsy":
+    - /url: https://www.shopsy.in/
+  - text: HELP
+  - link "Payments":
+    - /url: /pages/payments
+  - link "Shipping":
+    - /url: /pages/shipping
+  - link "Cancellation & Returns":
+    - /url: /helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+  - link "FAQ":
+    - /url: /helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+  - text: CONSUMER POLICY
+  - link "Cancellation & Returns":
+    - /url: /pages/returnpolicy?otracker=footer_navlinks
+  - link "Terms Of Use":
+    - /url: /pages/terms?otracker=footer_navlinks
+  - link "Security":
+    - /url: /pages/paymentsecurity?otracker=footer_navlinks
+  - link "Privacy":
+    - /url: /pages/privacypolicy?otracker=footer_navlinks
+  - link "Sitemap":
+    - /url: /sitemap?otracker=footer_navlinks
+  - link "Grievance Redressal":
+    - /url: /pages/grievance-redressal-mechanism?otracker=footer_navlinks
+  - link "EPR Compliance":
+    - /url: /pages/ewaste-compliance-tnc?otracker=footer_navlinks
+  - text: "Mail Us:"
+  - paragraph: Flipkart Internet Private Limited,
+  - paragraph: Buildings Alyssa, Begonia &
+  - paragraph: Clove Embassy Tech Village,
+  - paragraph: Outer Ring Road, Devarabeesanahalli Village,
+  - paragraph: Bengaluru, 560103,
+  - paragraph: Karnataka, India
+  - text: Social
+  - link:
+    - /url: https://www.facebook.com/flipkart
+    - img
+  - link:
+    - /url: https://www.twitter.com/flipkart
+    - img
+  - link:
+    - /url: https://www.youtube.com/flipkart
+    - img
+  - link:
+    - /url: https://www.instagram.com/flipkart
+    - img
+  - text: "Registered Office Address:"
+  - paragraph: Flipkart Internet Private Limited,
+  - paragraph: Buildings Alyssa, Begonia &
+  - paragraph: Clove Embassy Tech Village,
+  - paragraph: Outer Ring Road, Devarabeesanahalli Village,
+  - paragraph: Bengaluru, 560103,
+  - paragraph: Karnataka, India
+  - paragraph: "CIN : U51109KA2012PTC066107"
+  - paragraph:
+    - text: "Telephone:"
+    - link "044-45614700":
+      - /url: tel:044-45614700
+    - text: /
+    - link "044-67415800":
+      - /url: tel:044-67415800
+  - img
+  - link "Become a Seller":
+    - /url: https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+  - img
+  - link "Advertise":
+    - /url: https://brands.flipkart.com
+  - img
+  - link "Gift Cards":
+    - /url: /the-gift-card-store?otracker=footer_navlinks
+  - img
+  - link "Help Center":
+    - /url: /helpcentre?otracker=footer_navlinks
+  - text: © 2007-2025 Flipkart.com
+  - img
+```

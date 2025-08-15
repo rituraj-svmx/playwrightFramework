@@ -1,0 +1,725 @@
+# Page snapshot
+
+```yaml
+- link "Flipkart":
+  - /url: /
+  - img "Flipkart"
+- link "Explore Plus":
+  - /url: /plus
+  - text: Explore Plus
+  - img
+- textbox "Search for products, brands and more": Samsung
+- button:
+  - img
+- link "Login":
+  - /url: /account/login?ret=/search%3Fq%3DSamsung%26otracker%3Dsearch%26otracker1%3Dsearch%26marketplace%3DFLIPKART%26as-show%3Doff%26as%3Doff
+- link "Become a Seller":
+  - /url: https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect
+- text: More
+- img
+- link "Cart":
+  - /url: /viewcart?exploreMode=true&preference=FLIPKART
+  - img
+  - text: Cart
+- text: Electronics
+- img
+- text: TVs & Appliances
+- img
+- text: Men
+- img
+- text: Women
+- img
+- text: Baby & Kids
+- img
+- text: Home & Furniture
+- img
+- text: Sports, Books & More
+- img
+- link "Flights":
+  - /url: /travel/flights?otracker=nmenu_Flights
+- link "Offer Zone":
+  - /url: /offers-list/top-deals?screen=dynamic&pk=themeViews%3DDT-OMU-A2%3ADT-OMU~widgetType%3DdealCard~contentType%3Dneo&otracker=nmenu_offer-zone
+- text: Filters PICK A CATEGORY
+- img
+- link "Mobiles & Accessories":
+  - /url: /mobiles-accessories/pr?sid=tyy&q=Samsung&otracker=categorytree
+- link "Mobiles":
+  - /url: /mobiles-accessories/mobiles/pr?sid=tyy,4io&q=Samsung&otracker=categorytree
+- link "Mobile Cases & Covers":
+  - /url: /mobiles-accessories/mobile-cases-covers/pr?sid=tyy,4mr,q2u&q=Samsung&otracker=categorytree
+- link "Tablets":
+  - /url: /mobiles-accessories/tablets/pr?sid=tyy,hry&q=Samsung&otracker=categorytree
+- link "Wall Chargers":
+  - /url: /mobiles-accessories/wall-chargers/pr?sid=tyy,4mr,tp2,loq&q=Samsung&otracker=categorytree
+- link "Mobile Screen Guards":
+  - /url: /mobiles-accessories/mobile-screen-guards/pr?sid=tyy,4mr,lrv&q=Samsung&otracker=categorytree
+- text: Show 17 more
+- img
+- link "Home & Kitchen":
+  - /url: /home-kitchen/pr?sid=j9e&q=Samsung&otracker=categorytree
+- img
+- link "Home Entertainment":
+  - /url: /home-entertainment/pr?sid=ckf&q=Samsung&otracker=categorytree
+- img
+- link "Computers":
+  - /url: /computers/pr?sid=6bo&q=Samsung&otracker=categorytree
+- img
+- link "Audio & Video":
+  - /url: /audio-video/pr?sid=0pm&q=Samsung&otracker=categorytree
+- text: Show 18 more categories Showing 1 – 24 of 1,01,233 results for "Samsung" Sort By Relevance Popularity Price -- Low to High Price -- High to Low
+- link "Bestseller Samsung Galaxy F05 (Twilight Blue, 64 GB) Add to Compare Samsung Galaxy F05 (Twilight Blue, 64 GB) 4.2 62,997 Ratings & 3,581 Reviews • 4 GB RAM | 64 GB ROM | Expandable Upto 1 TB • 17.12 cm (6.74 inch) HD+ Display • 50MP + 2MP | 8MP Front Camera • 5000 mAh Battery • Helio G85 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹6,249 ₹9,999 37% off":
+  - /url: /samsung-galaxy-f05-twilight-blue-64-gb/p/itm84a914081ab93?pid=MOBH4GTXZ9ZRQ3SU&lid=LSTMOBH4GTXZ9ZRQ3SUXCBGGE&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&spotlightTagId=default_BestsellerId_tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH4GTXZ9ZRQ3SU.SEARCH&ppt=sp&ppn=sp&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - text: Bestseller
+  - img "Samsung Galaxy F05 (Twilight Blue, 64 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy F05 (Twilight Blue, 64 GB) 4.2
+  - img
+  - text: 62,997 Ratings & 3,581 Reviews
+  - list:
+    - listitem: • 4 GB RAM | 64 GB ROM | Expandable Upto 1 TB
+    - listitem: • 17.12 cm (6.74 inch) HD+ Display
+    - listitem: • 50MP + 2MP | 8MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Helio G85 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹6,249 ₹9,999 37% off
+  - img
+- link "Samsung Galaxy A35 5G (Awesome Iceblue, 128 GB) Add to Compare Samsung Galaxy A35 5G (Awesome Iceblue, 128 GB) 4.3 23,915 Ratings & 1,571 Reviews • 8 GB RAM | 128 GB ROM | Expandable Upto 1 TB • 16.76 cm (6.6 inch) Full HD+ Display • 50MP + 8MP + 5MP | 13MP Front Camera • 5000 mAh Battery • Samsung Exynos 1380 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹19,999 ₹33,999 41% off Only 1 left":
+  - /url: /samsung-galaxy-a35-5g-awesome-iceblue-128-gb/p/itm9684d2fe9201e?pid=MOBGYT2HEYWFCG8Q&lid=LSTMOBGYT2HEYWFCG8QSW6D6Y&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_2&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBGYT2HEYWFCG8Q.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy A35 5G (Awesome Iceblue, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy A35 5G (Awesome Iceblue, 128 GB) 4.3
+  - img
+  - text: 23,915 Ratings & 1,571 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM | Expandable Upto 1 TB
+    - listitem: • 16.76 cm (6.6 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP + 5MP | 13MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Samsung Exynos 1380 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹19,999 ₹33,999 41% off
+  - img
+  - text: Only 1 left
+- link "Samsung M05 (Mint Green, 64 GB) Add to Compare Samsung M05 (Mint Green, 64 GB) 4.3 2,886 Ratings & 122 Reviews • 4 GB RAM | 64 GB ROM • 17.02 cm (6.7 inch) Display • 50MP Rear Camera • 5000 mAh Battery • 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase ₹6,636 ₹9,999 33% off Only few left":
+  - /url: /samsung-m05-mint-green-64-gb/p/itm99fc37d43aff8?pid=MOBH4Z9VZNVRFV85&lid=LSTMOBH4Z9VZNVRFV856JSUSD&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH4Z9VZNVRFV85.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung M05 (Mint Green, 64 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung M05 (Mint Green, 64 GB) 4.3
+  - img
+  - text: 2,886 Ratings & 122 Reviews
+  - list:
+    - listitem: • 4 GB RAM | 64 GB ROM
+    - listitem: • 17.02 cm (6.7 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase
+  - text: ₹6,636 ₹9,999 33% off
+  - img
+  - text: Only few left
+- link "Samsung Galaxy F06 5G (Bahama Blue, 128 GB) Add to Compare Samsung Galaxy F06 5G (Bahama Blue, 128 GB) 4.1 18,569 Ratings & 1,233 Reviews • 4 GB RAM | 128 GB ROM | Expandable Upto 1500 GB • 17.02 cm (6.7 inch) HD+ Display • 50MP + 2MP | 8MP Front Camera • 5000 mAh Battery • Dimensity 6300 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹8,699 ₹13,999 37% off":
+  - /url: /samsung-galaxy-f06-5g-bahama-blue-128-gb/p/itm58189fada62cb?pid=MOBH9AS47XHFRMJY&lid=LSTMOBH9AS47XHFRMJYWI8CRI&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_4&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH9AS47XHFRMJY.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy F06 5G (Bahama Blue, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy F06 5G (Bahama Blue, 128 GB) 4.1
+  - img
+  - text: 18,569 Ratings & 1,233 Reviews
+  - list:
+    - listitem: • 4 GB RAM | 128 GB ROM | Expandable Upto 1500 GB
+    - listitem: • 17.02 cm (6.7 inch) HD+ Display
+    - listitem: • 50MP + 2MP | 8MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Dimensity 6300 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹8,699 ₹13,999 37% off
+  - img
+- link "Samsung Galaxy F36 5G (Red, 128 GB) Add to Compare Samsung Galaxy F36 5G (Red, 128 GB) 4.3 813 Ratings & 72 Reviews • 6 GB RAM | 128 GB ROM | Expandable Upto 2 TB • 17.02 cm (6.7 inch) Full HD+ Display • 50MP + 8MP + 2MP | 13MP Front Camera • 5000 mAh Battery • Samsung Exynos 1380 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹17,499 ₹22,999 23% off Lowest price since launch Buy ₹3000 more, save extra ₹500":
+  - /url: /samsung-galaxy-f36-5g-red-128-gb/p/itmc11d84aa155ce?pid=MOBHDFVTHDKNNW8Z&lid=LSTMOBHDFVTHDKNNW8Z1DPOGI&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_5&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBHDFVTHDKNNW8Z.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy F36 5G (Red, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy F36 5G (Red, 128 GB) 4.3
+  - img
+  - text: 813 Ratings & 72 Reviews
+  - list:
+    - listitem: • 6 GB RAM | 128 GB ROM | Expandable Upto 2 TB
+    - listitem: • 17.02 cm (6.7 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP + 2MP | 13MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Samsung Exynos 1380 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹17,499 ₹22,999 23% off
+  - img
+  - text: Lowest price since launch Buy ₹3000 more, save extra ₹500
+- link "Samsung Galaxy F16 5G (Glam Green, 128 GB) Add to Compare Samsung Galaxy F16 5G (Glam Green, 128 GB) 4.2 5,876 Ratings & 369 Reviews • 6 GB RAM | 128 GB ROM • 16.91 cm (6.657 inch) Full HD+ Display • 50MP + 5MP + 2MP | 13MP Front Camera • 5000 mAh Battery • Dimensity 6300 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹11,999 ₹17,499 31% off":
+  - /url: /samsung-galaxy-f16-5g-glam-green-128-gb/p/itmcdb73c7370f76?pid=MOBH9ASGDGWZV69Z&lid=LSTMOBH9ASGDGWZV69ZTSJAUH&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_6&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH9ASGDGWZV69Z.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy F16 5G (Glam Green, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy F16 5G (Glam Green, 128 GB) 4.2
+  - img
+  - text: 5,876 Ratings & 369 Reviews
+  - list:
+    - listitem: • 6 GB RAM | 128 GB ROM
+    - listitem: • 16.91 cm (6.657 inch) Full HD+ Display
+    - listitem: • 50MP + 5MP + 2MP | 13MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Dimensity 6300 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹11,999 ₹17,499 31% off
+  - img
+- link "Samsung Galaxy M35 5G (Thunder Grey, 128 GB) Currently unavailable Add to Compare Samsung Galaxy M35 5G (Thunder Grey, 128 GB) 4.4 25,468 Ratings & 2,020 Reviews • 6 GB RAM | 128 GB ROM • 16.76 cm (6.6 inch) Display • 50MP Rear Camera • 6000 mAh Battery • 1 YEAR ₹16,373 ₹24,499 33% off":
+  - /url: /samsung-galaxy-m35-5g-thunder-grey-128-gb/p/itm24a2a82cf1782?pid=MOBH2Z9HJYYQBFGD&lid=LSTMOBH2Z9HJYYQBFGDLSOHB8&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_7&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH2Z9HJYYQBFGD.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy M35 5G (Thunder Grey, 128 GB)"
+  - text: Currently unavailable Add to Compare
+  - img
+  - text: Samsung Galaxy M35 5G (Thunder Grey, 128 GB) 4.4
+  - img
+  - text: 25,468 Ratings & 2,020 Reviews
+  - list:
+    - listitem: • 6 GB RAM | 128 GB ROM
+    - listitem: • 16.76 cm (6.6 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 6000 mAh Battery
+    - listitem: • 1 YEAR
+  - text: ₹16,373 ₹24,499 33% off
+  - img
+- link "Samsung Galaxy F06 5G (Bahama Blue, 64 GB) Add to Compare Samsung Galaxy F06 5G (Bahama Blue, 64 GB) 4.1 18,569 Ratings & 1,233 Reviews • 4 GB RAM | 64 GB ROM | Expandable Upto 1500 GB • 17.02 cm (6.7 inch) HD+ Display • 50MP + 2MP | 8MP Front Camera • 5000 mAh Battery • Dimensity 6300 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹8,199 ₹12,499 34% off":
+  - /url: /samsung-galaxy-f06-5g-bahama-blue-64-gb/p/itma2920c68b7fc8?pid=MOBHBF5JDCSG2TVD&lid=LSTMOBHBF5JDCSG2TVDYJZYLX&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_8&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBHBF5JDCSG2TVD.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy F06 5G (Bahama Blue, 64 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy F06 5G (Bahama Blue, 64 GB) 4.1
+  - img
+  - text: 18,569 Ratings & 1,233 Reviews
+  - list:
+    - listitem: • 4 GB RAM | 64 GB ROM | Expandable Upto 1500 GB
+    - listitem: • 17.02 cm (6.7 inch) HD+ Display
+    - listitem: • 50MP + 2MP | 8MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Dimensity 6300 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹8,199 ₹12,499 34% off
+  - img
+- link "Samsung Galaxy A35 5G (Awesome Navy, 256 GB) Add to Compare Samsung Galaxy A35 5G (Awesome Navy, 256 GB) 4.3 23,915 Ratings & 1,571 Reviews • 8 GB RAM | 256 GB ROM | Expandable Upto 1 TB • 16.76 cm (6.6 inch) Full HD+ Display • 50MP + 8MP + 5MP | 13MP Front Camera • 5000 mAh Battery • Samsung Exynos 1380 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹21,999 ₹36,999 40% off":
+  - /url: /samsung-galaxy-a35-5g-awesome-navy-256-gb/p/itm2d2e398127998?pid=MOBGYT2HEEYGMZFH&lid=LSTMOBGYT2HEEYGMZFH3U1TOF&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_9&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBGYT2HEEYGMZFH.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy A35 5G (Awesome Navy, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy A35 5G (Awesome Navy, 256 GB) 4.3
+  - img
+  - text: 23,915 Ratings & 1,571 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 256 GB ROM | Expandable Upto 1 TB
+    - listitem: • 16.76 cm (6.6 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP + 5MP | 13MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Samsung Exynos 1380 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹21,999 ₹36,999 40% off
+  - img
+- link "Samsung Galaxy F06 5G (Bahama Blue, 128 GB) Add to Compare Samsung Galaxy F06 5G (Bahama Blue, 128 GB) 4.1 7,943 Ratings & 561 Reviews • 6 GB RAM | 128 GB ROM | Expandable Upto 1500 GB • 17.02 cm (6.7 inch) HD+ Display • 50MP + 2MP | 8MP Front Camera • 5000 mAh Battery • Dimensity 6300 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹9,999 ₹15,499 35% off":
+  - /url: /samsung-galaxy-f06-5g-bahama-blue-128-gb/p/itm9acd4c5748761?pid=MOBH9AS4DSSQECZM&lid=LSTMOBH9AS4DSSQECZMNC3LC0&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_10&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH9AS4DSSQECZM.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy F06 5G (Bahama Blue, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy F06 5G (Bahama Blue, 128 GB) 4.1
+  - img
+  - text: 7,943 Ratings & 561 Reviews
+  - list:
+    - listitem: • 6 GB RAM | 128 GB ROM | Expandable Upto 1500 GB
+    - listitem: • 17.02 cm (6.7 inch) HD+ Display
+    - listitem: • 50MP + 2MP | 8MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Dimensity 6300 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹9,999 ₹15,499 35% off
+  - img
+- link "Samsung Galaxy F36 5G (Violet, 128 GB) Add to Compare Samsung Galaxy F36 5G (Violet, 128 GB) 4.3 813 Ratings & 72 Reviews • 6 GB RAM | 128 GB ROM | Expandable Upto 2 TB • 17.02 cm (6.7 inch) Full HD+ Display • 50MP + 8MP + 2MP | 13MP Front Camera • 5000 mAh Battery • Samsung Exynos 1380 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹17,499 ₹22,999 23% off Lowest price since launch Buy ₹3000 more, save extra ₹500":
+  - /url: /samsung-galaxy-f36-5g-violet-128-gb/p/itm85ca200fd55e9?pid=MOBHDFVTH22ZAZXZ&lid=LSTMOBHDFVTH22ZAZXZMFVJDX&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_11&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBHDFVTH22ZAZXZ.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy F36 5G (Violet, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy F36 5G (Violet, 128 GB) 4.3
+  - img
+  - text: 813 Ratings & 72 Reviews
+  - list:
+    - listitem: • 6 GB RAM | 128 GB ROM | Expandable Upto 2 TB
+    - listitem: • 17.02 cm (6.7 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP + 2MP | 13MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Samsung Exynos 1380 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹17,499 ₹22,999 23% off
+  - img
+  - text: Lowest price since launch Buy ₹3000 more, save extra ₹500
+- link "Samsung Galaxy F16 5G (Bling Black, 128 GB) Add to Compare Samsung Galaxy F16 5G (Bling Black, 128 GB) 4.2 5,876 Ratings & 369 Reviews • 6 GB RAM | 128 GB ROM • 16.91 cm (6.657 inch) Full HD+ Display • 50MP + 5MP + 2MP | 13MP Front Camera • 5000 mAh Battery • Dimensity 6300 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹11,999 ₹17,499 31% off":
+  - /url: /samsung-galaxy-f16-5g-bling-black-128-gb/p/itm36dc1b01d7f0c?pid=MOBH9ASGXEYAEJDE&lid=LSTMOBH9ASGXEYAEJDEO5XLUM&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_12&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH9ASGXEYAEJDE.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy F16 5G (Bling Black, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy F16 5G (Bling Black, 128 GB) 4.2
+  - img
+  - text: 5,876 Ratings & 369 Reviews
+  - list:
+    - listitem: • 6 GB RAM | 128 GB ROM
+    - listitem: • 16.91 cm (6.657 inch) Full HD+ Display
+    - listitem: • 50MP + 5MP + 2MP | 13MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Dimensity 6300 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹11,999 ₹17,499 31% off
+  - img
+- link "Samsung Galaxy A55 5G (Awesome Iceblue, 128 GB) Currently unavailable Add to Compare Samsung Galaxy A55 5G (Awesome Iceblue, 128 GB) 4.4 2,277 Ratings & 167 Reviews • 8 GB RAM | 128 GB ROM | Expandable Upto 1 TB • 16.76 cm (6.6 inch) Full HD+ Display • 50MP + 12MP + 5MP | 32MP Front Camera • 5000 mAh Battery • Samsung Exynos 1480 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹26,491 ₹42,999 38% off":
+  - /url: /samsung-galaxy-a55-5g-awesome-iceblue-128-gb/p/itm0bb662185bcc4?pid=MOBGYT2HX4A4QAWW&lid=LSTMOBGYT2HX4A4QAWW1EYFOK&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_13&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBGYT2HX4A4QAWW.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy A55 5G (Awesome Iceblue, 128 GB)"
+  - text: Currently unavailable Add to Compare
+  - img
+  - text: Samsung Galaxy A55 5G (Awesome Iceblue, 128 GB) 4.4
+  - img
+  - text: 2,277 Ratings & 167 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM | Expandable Upto 1 TB
+    - listitem: • 16.76 cm (6.6 inch) Full HD+ Display
+    - listitem: • 50MP + 12MP + 5MP | 32MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Samsung Exynos 1480 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹26,491 ₹42,999 38% off
+  - img
+- link "Samsung Galaxy F16 5G (Bling Black, 128 GB) Add to Compare Samsung Galaxy F16 5G (Bling Black, 128 GB) 4.2 3,131 Ratings & 192 Reviews • 4 GB RAM | 128 GB ROM • 16.91 cm (6.657 inch) Full HD+ Display • 50MP + 5MP + 2MP | 13MP Front Camera • 5000 mAh Battery • Dimensity 6300 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹10,749 ₹15,999 32% off":
+  - /url: /samsung-galaxy-f16-5g-bling-black-128-gb/p/itm98473f83de0f1?pid=MOBH9ASGZWYBDPUD&lid=LSTMOBH9ASGZWYBDPUDPEFY5L&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_14&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH9ASGZWYBDPUD.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy F16 5G (Bling Black, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy F16 5G (Bling Black, 128 GB) 4.2
+  - img
+  - text: 3,131 Ratings & 192 Reviews
+  - list:
+    - listitem: • 4 GB RAM | 128 GB ROM
+    - listitem: • 16.91 cm (6.657 inch) Full HD+ Display
+    - listitem: • 50MP + 5MP + 2MP | 13MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Dimensity 6300 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹10,749 ₹15,999 32% off
+  - img
+- link "Samsung Galaxy S24 FE 5G (Graphite, 128 GB) Add to Compare Samsung Galaxy S24 FE 5G (Graphite, 128 GB) 4.5 14,094 Ratings & 1,096 Reviews • 8 GB RAM | 128 GB ROM • 17.02 cm (6.7 inch) Full HD+ Display • 50MP + 12MP | 10MP Front Camera • 4700 mAh Battery • Exynos 2400e Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹35,999 ₹59,999 40% off Buy ₹3000 more, save extra ₹1000":
+  - /url: /samsung-galaxy-s24-fe-5g-graphite-128-gb/p/itme960199e26f23?pid=MOBH4ZG33EBNZKS7&lid=LSTMOBH4ZG33EBNZKS751CITE&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_15&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH4ZG33EBNZKS7.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy S24 FE 5G (Graphite, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy S24 FE 5G (Graphite, 128 GB) 4.5
+  - img
+  - text: 14,094 Ratings & 1,096 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 17.02 cm (6.7 inch) Full HD+ Display
+    - listitem: • 50MP + 12MP | 10MP Front Camera
+    - listitem: • 4700 mAh Battery
+    - listitem: • Exynos 2400e Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹35,999 ₹59,999 40% off
+  - img
+  - text: Buy ₹3000 more, save extra ₹1000
+- link "Samsung Galaxy S24 FE 5G (Blue, 128 GB) Add to Compare Samsung Galaxy S24 FE 5G (Blue, 128 GB) 4.5 14,094 Ratings & 1,096 Reviews • 8 GB RAM | 128 GB ROM • 17.02 cm (6.7 inch) Full HD+ Display • 50MP + 12MP | 10MP Front Camera • 4700 mAh Battery • Exynos 2400e Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹35,999 ₹59,999 40% off Buy ₹3000 more, save extra ₹1000":
+  - /url: /samsung-galaxy-s24-fe-5g-blue-128-gb/p/itme960199e26f23?pid=MOBH4ZG3Z5NCBW2H&lid=LSTMOBH4ZG3Z5NCBW2HWQMO2K&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_16&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH4ZG3Z5NCBW2H.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy S24 FE 5G (Blue, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy S24 FE 5G (Blue, 128 GB) 4.5
+  - img
+  - text: 14,094 Ratings & 1,096 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 17.02 cm (6.7 inch) Full HD+ Display
+    - listitem: • 50MP + 12MP | 10MP Front Camera
+    - listitem: • 4700 mAh Battery
+    - listitem: • Exynos 2400e Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹35,999 ₹59,999 40% off
+  - img
+  - text: Buy ₹3000 more, save extra ₹1000
+- link "Samsung Guru 1200 Currently unavailable Add to Compare Samsung Guru 1200 3.1 5,744 Ratings & 410 Reviews • 4 MB RAM | 10 MB ROM • 3.86 cm (1.52 inch) Display • 800 mAh Battery • NA ₹749 ₹1,599 53% off":
+  - /url: /samsung-guru-1200/p/itm1f97edf0921dc?pid=MOBH8BMFNJ3BHQHY&lid=LSTMOBH8BMFNJ3BHQHY0MWZFY&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_17&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH8BMFNJ3BHQHY.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Guru 1200"
+  - text: Currently unavailable Add to Compare
+  - img
+  - text: Samsung Guru 1200 3.1
+  - img
+  - text: 5,744 Ratings & 410 Reviews
+  - list:
+    - listitem: • 4 MB RAM | 10 MB ROM
+    - listitem: • 3.86 cm (1.52 inch) Display
+    - listitem: • 800 mAh Battery
+    - listitem: • NA
+  - text: ₹749 ₹1,599 53% off
+- link "Samsung Guru Music 2 Add to Compare Samsung Guru Music 2 3.1 3,533 Ratings & 206 Reviews • 10 MB RAM | 10 MB ROM • 5.08 cm (2 inch) VGA Display • 1100 mAh Battery • 1 year seller domestic warranty ₹878 ₹1,999 56% off Only few left":
+  - /url: /samsung-guru-music-2/p/itme2ac9119f5a0f?pid=MOBH8F36WYNWJKRP&lid=LSTMOBH8F36WYNWJKRPC6CVZR&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_18&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH8F36WYNWJKRP.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Guru Music 2"
+  - text: Add to Compare
+  - img
+  - text: Samsung Guru Music 2 3.1
+  - img
+  - text: 3,533 Ratings & 206 Reviews
+  - list:
+    - listitem: • 10 MB RAM | 10 MB ROM
+    - listitem: • 5.08 cm (2 inch) VGA Display
+    - listitem: • 1100 mAh Battery
+    - listitem: • 1 year seller domestic warranty
+  - text: ₹878 ₹1,999 56% off Only few left
+- link "Samsung Galaxy M35 5G (DayBreak Blue, 128 GB) Currently unavailable Add to Compare Samsung Galaxy M35 5G (DayBreak Blue, 128 GB) 4.4 25,468 Ratings & 2,020 Reviews • 6 GB RAM | 128 GB ROM • 16.76 cm (6.6 inch) Display • 50MP Rear Camera • 6000 mAh Battery • 1 YEAR ₹16,700 ₹24,499 31% off":
+  - /url: /samsung-galaxy-m35-5g-daybreak-blue-128-gb/p/itmd4d8ef7b859de?pid=MOBH2Y7HKCYDEHFZ&lid=LSTMOBH2Y7HKCYDEHFZTCPPWK&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_19&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH2Y7HKCYDEHFZ.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy M35 5G (DayBreak Blue, 128 GB)"
+  - text: Currently unavailable Add to Compare
+  - img
+  - text: Samsung Galaxy M35 5G (DayBreak Blue, 128 GB) 4.4
+  - img
+  - text: 25,468 Ratings & 2,020 Reviews
+  - list:
+    - listitem: • 6 GB RAM | 128 GB ROM
+    - listitem: • 16.76 cm (6.6 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 6000 mAh Battery
+    - listitem: • 1 YEAR
+  - text: ₹16,700 ₹24,499 31% off
+  - img
+- link "Samsung Galaxy A35 5G (Awesome Lilac, 128 GB) Add to Compare Samsung Galaxy A35 5G (Awesome Lilac, 128 GB) 4.3 23,915 Ratings & 1,571 Reviews • 8 GB RAM | 128 GB ROM | Expandable Upto 1 TB • 16.76 cm (6.6 inch) Full HD+ Display • 50MP + 8MP + 5MP | 13MP Front Camera • 5000 mAh Battery • Samsung Exynos 1380 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹19,999 ₹33,999 41% off":
+  - /url: /samsung-galaxy-a35-5g-awesome-lilac-128-gb/p/itm5a31476ca6a35?pid=MOBGYT2HDZYASSZG&lid=LSTMOBGYT2HDZYASSZGOUJTDB&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_20&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBGYT2HDZYASSZG.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy A35 5G (Awesome Lilac, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy A35 5G (Awesome Lilac, 128 GB) 4.3
+  - img
+  - text: 23,915 Ratings & 1,571 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM | Expandable Upto 1 TB
+    - listitem: • 16.76 cm (6.6 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP + 5MP | 13MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Samsung Exynos 1380 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹19,999 ₹33,999 41% off
+  - img
+- link "Samsung Galaxy M35 5G (Moonlight Blue, 128 GB) Add to Compare Samsung Galaxy M35 5G (Moonlight Blue, 128 GB) 4.4 25,468 Ratings & 2,020 Reviews • 6 GB RAM | 128 GB ROM • 16.76 cm (6.6 inch) Display • 50MP Rear Camera • 6000 mAh Battery • 1 YEAR ₹17,998 ₹25,999 30% off Only 4 left":
+  - /url: /samsung-galaxy-m35-5g-moonlight-blue-128-gb/p/itm94360d23ec184?pid=MOBH2Z8ZTPKMZ9FV&lid=LSTMOBH2Z8ZTPKMZ9FVCWVU7S&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_21&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH2Z8ZTPKMZ9FV.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy M35 5G (Moonlight Blue, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy M35 5G (Moonlight Blue, 128 GB) 4.4
+  - img
+  - text: 25,468 Ratings & 2,020 Reviews
+  - list:
+    - listitem: • 6 GB RAM | 128 GB ROM
+    - listitem: • 16.76 cm (6.6 inch) Display
+    - listitem: • 50MP Rear Camera
+    - listitem: • 6000 mAh Battery
+    - listitem: • 1 YEAR
+  - text: ₹17,998 ₹25,999 30% off
+  - img
+  - text: Only 4 left
+- link "Samsung Galaxy S24 5G (Marble Gray, 256 GB) Add to Compare Samsung Galaxy S24 5G (Marble Gray, 256 GB) 4.6 7,284 Ratings & 406 Reviews • 8 GB RAM | 256 GB ROM • 15.75 cm (6.2 inch) Full HD+ Display • 50MP + 10MP + 12MP | 12MP Front Camera • 4000 mAh Battery • Exynos 2400 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹52,999 ₹79,999 33% off":
+  - /url: /samsung-galaxy-s24-5g-marble-gray-256-gb/p/itmda5af919bff3a?pid=MOBH5TKXJBNXDGRE&lid=LSTMOBH5TKXJBNXDGREFKAGF6&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_22&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH5TKXJBNXDGRE.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy S24 5G (Marble Gray, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy S24 5G (Marble Gray, 256 GB) 4.6
+  - img
+  - text: 7,284 Ratings & 406 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 256 GB ROM
+    - listitem: • 15.75 cm (6.2 inch) Full HD+ Display
+    - listitem: • 50MP + 10MP + 12MP | 12MP Front Camera
+    - listitem: • 4000 mAh Battery
+    - listitem: • Exynos 2400 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹52,999 ₹79,999 33% off
+  - img
+- link "Samsung Galaxy F16 5G (Vibing Blue, 128 GB) Add to Compare Samsung Galaxy F16 5G (Vibing Blue, 128 GB) 4.2 3,131 Ratings & 192 Reviews • 4 GB RAM | 128 GB ROM • 16.91 cm (6.657 inch) Full HD+ Display • 50MP + 5MP + 2MP | 13MP Front Camera • 5000 mAh Battery • Dimensity 6300 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹10,749 ₹15,999 32% off":
+  - /url: /samsung-galaxy-f16-5g-vibing-blue-128-gb/p/itm21ffc210450ff?pid=MOBH9ASGPYCDE8VA&lid=LSTMOBH9ASGPYCDE8VAEXUXDN&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_23&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH9ASGPYCDE8VA.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy F16 5G (Vibing Blue, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy F16 5G (Vibing Blue, 128 GB) 4.2
+  - img
+  - text: 3,131 Ratings & 192 Reviews
+  - list:
+    - listitem: • 4 GB RAM | 128 GB ROM
+    - listitem: • 16.91 cm (6.657 inch) Full HD+ Display
+    - listitem: • 50MP + 5MP + 2MP | 13MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Dimensity 6300 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹10,749 ₹15,999 32% off
+  - img
+- link "Samsung Galaxy F16 5G (Vibing Blue, 128 GB) Add to Compare Samsung Galaxy F16 5G (Vibing Blue, 128 GB) 4.2 5,876 Ratings & 369 Reviews • 6 GB RAM | 128 GB ROM • 16.91 cm (6.657 inch) Full HD+ Display • 50MP + 5MP + 2MP | 13MP Front Camera • 5000 mAh Battery • Dimensity 6300 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹11,999 ₹17,499 31% off":
+  - /url: /samsung-galaxy-f16-5g-vibing-blue-128-gb/p/itmc59882b14985a?pid=MOBH9ASG42S7QZ6P&lid=LSTMOBH9ASG42S7QZ6PM3IJJ8&marketplace=FLIPKART&q=Samsung&store=search.flipkart.com&srno=s_1_24&otracker=search&otracker1=search&fm=organic&iid=2b2f2129-167e-4251-a9cc-78ebecf0e8fa.MOBH9ASG42S7QZ6P.SEARCH&ppt=hp&ppn=homepage&ssid=is3swr82e80000001755258609725&qH=3910b1e0ccab19bc
+  - img "Samsung Galaxy F16 5G (Vibing Blue, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Samsung Galaxy F16 5G (Vibing Blue, 128 GB) 4.2
+  - img
+  - text: 5,876 Ratings & 369 Reviews
+  - list:
+    - listitem: • 6 GB RAM | 128 GB ROM
+    - listitem: • 16.91 cm (6.657 inch) Full HD+ Display
+    - listitem: • 50MP + 5MP + 2MP | 13MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Dimensity 6300 Processor
+    - listitem: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+  - text: ₹11,999 ₹17,499 31% off
+  - img
+- text: Page 1 of 4,219
+- navigation:
+  - link "1":
+    - /url: /search?q=Samsung&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=1
+  - link "2":
+    - /url: /search?q=Samsung&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=2
+  - link "3":
+    - /url: /search?q=Samsung&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=3
+  - link "4":
+    - /url: /search?q=Samsung&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=4
+  - link "5":
+    - /url: /search?q=Samsung&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=5
+  - link "6":
+    - /url: /search?q=Samsung&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=6
+  - link "7":
+    - /url: /search?q=Samsung&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=7
+  - link "8":
+    - /url: /search?q=Samsung&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=8
+  - link "9":
+    - /url: /search?q=Samsung&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=9
+  - link "10":
+    - /url: /search?q=Samsung&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=10
+  - link "Next":
+    - /url: /search?q=Samsung&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=2
+- text: Did you find what you were looking for? Yes No Reviews for Popular All Categories
+- img "Samsung Galaxy F06 5G (Bahama Blue, 128 GB)"
+- link "1. Samsung Galaxy F06 5G (Baha... 4.1 18,569 Ratings&1,233 Reviews ₹8,699 37% off":
+  - /url: /samsung-galaxy-f06-5g-bahama-blue-128-gb/p/itm58189fada62cb?pid=MOBH9AS47XHFRMJY&marketplace=FLIPKART
+  - text: 1. Samsung Galaxy F06 5G (Baha... 4.1
+  - img
+  - text: 18,569 Ratings&1,233 Reviews ₹8,699 37% off
+- list:
+  - listitem: 4 GB RAM | 128 GB ROM | Expandable Upto 1500 GB
+  - listitem: 17.02 cm (6.7 inch) HD+ Display
+  - listitem: 50MP + 2MP | 8MP Front Camera
+- text: Most Helpful Review 5
+- img
+- paragraph: Brilliant
+- text: Samsung Galaxy F06 5G The Samsung Galaxy F06 5G delivers an excellent display with vibrant colors and smooth performance, making the gaming experience seaml... Read full review
+- paragraph: sankalp gupta
+- img
+- paragraph: Certified Buyer
+- paragraph: 4 months ago
+- text: Recent Review 5
+- img
+- paragraph: Wonderful
+- text: After 2 months I fill lag in high performance apps like bgmi/pubg but it's really good for budget friendly mobile you can buy only for normal use not for mul... Read full review
+- paragraph: Flipkart Customer
+- img
+- paragraph: Certified Buyer
+- paragraph: 2 days ago
+- img "Samsung Galaxy F05 (Twilight Blue, 64 GB)"
+- link "2. Samsung Galaxy F05 (Twiligh... 4.2 62,997 Ratings&3,581 Reviews ₹6,249 37% off":
+  - /url: /samsung-galaxy-f05-twilight-blue-64-gb/p/itm84a914081ab93?pid=MOBH4GTXZ9ZRQ3SU&marketplace=FLIPKART
+  - text: 2. Samsung Galaxy F05 (Twiligh... 4.2
+  - img
+  - text: 62,997 Ratings&3,581 Reviews ₹6,249 37% off
+- list:
+  - listitem: 4 GB RAM | 64 GB ROM | Expandable Upto 1 TB
+  - listitem: 17.12 cm (6.74 inch) HD+ Display
+  - listitem: 50MP + 2MP | 8MP Front Camera
+- text: Most Helpful Review 4
+- img
+- paragraph: Good quality product
+- text: Nice phone and amazing look and UI
+- paragraph: Rohan Singh
+- img
+- paragraph: Certified Buyer
+- paragraph: 10 months ago
+- text: Recent Review 5
+- img
+- paragraph: Mind-blowing purchase
+- text: Low price good product(This phone)
+- paragraph: Susanta Mahata
+- img
+- paragraph: Certified Buyer
+- paragraph: 2 days ago
+- img "Samsung Galaxy F06 5G (Bahama Blue, 128 GB)"
+- link "3. Samsung Galaxy F06 5G (Baha... 4.1 7,943 Ratings&561 Reviews ₹9,999 35% off":
+  - /url: /samsung-galaxy-f06-5g-bahama-blue-128-gb/p/itm9acd4c5748761?pid=MOBH9AS4DSSQECZM&marketplace=FLIPKART
+  - text: 3. Samsung Galaxy F06 5G (Baha... 4.1
+  - img
+  - text: 7,943 Ratings&561 Reviews ₹9,999 35% off
+- list:
+  - listitem: 6 GB RAM | 128 GB ROM | Expandable Upto 1500 GB
+  - listitem: 17.02 cm (6.7 inch) HD+ Display
+  - listitem: 50MP + 2MP | 8MP Front Camera
+- text: Most Helpful Review 4
+- img
+- paragraph: Wonderful
+- text: Awesome phone! Best for normal use at this price
+- paragraph: Madhumita Shil
+- img
+- paragraph: Certified Buyer
+- paragraph: 4 months ago
+- text: Recent Review 4
+- img
+- paragraph: Very Good
+- text: I gifted my daughter for rakhi she loves it.
+- paragraph: Flipkart Customer
+- img
+- paragraph: Certified Buyer
+- paragraph: 4 days ago
+- img "Samsung Galaxy S24 FE 5G (Graphite, 128 GB)"
+- link "4. Samsung Galaxy S24 FE 5G (G... 4.5 14,094 Ratings&1,096 Reviews ₹35,999 40% off":
+  - /url: /samsung-galaxy-s24-fe-5g-graphite-128-gb/p/itme960199e26f23?pid=MOBH4ZG33EBNZKS7&marketplace=FLIPKART
+  - text: 4. Samsung Galaxy S24 FE 5G (G... 4.5
+  - img
+  - text: 14,094 Ratings&1,096 Reviews ₹35,999 40% off
+- list:
+  - listitem: 8 GB RAM | 128 GB ROM
+  - listitem: 17.02 cm (6.7 inch) Full HD+ Display
+  - listitem: 50MP + 12MP | 10MP Front Camera
+- text: Most Helpful Review 5
+- img
+- paragraph: Worth every penny
+- text: The display is very good, one of the main highlights of this phone is camera and video quality it is just superior quality at this price, many people believe... Read full review
+- paragraph: Lallawmpuia
+- img
+- paragraph: Certified Buyer
+- paragraph: 2 months ago
+- text: Recent Review 4
+- img
+- paragraph: Wonderful
+- text: Heating issue while capturing the photos and videos and battery drain too fast during photography and videography. Too much slippery must use cover with th... Read full review
+- paragraph: Rohit Rana
+- img
+- paragraph: Certified Buyer
+- paragraph: 3 days ago
+- img "Samsung Galaxy F16 5G (Bling Black, 128 GB)"
+- link "5. Samsung Galaxy F16 5G (Blin... 4.2 3,131 Ratings&192 Reviews ₹10,749 32% off":
+  - /url: /samsung-galaxy-f16-5g-bling-black-128-gb/p/itm98473f83de0f1?pid=MOBH9ASGZWYBDPUD&marketplace=FLIPKART
+  - text: 5. Samsung Galaxy F16 5G (Blin... 4.2
+  - img
+  - text: 3,131 Ratings&192 Reviews ₹10,749 32% off
+- list:
+  - listitem: 4 GB RAM | 128 GB ROM
+  - listitem: 16.91 cm (6.657 inch) Full HD+ Display
+  - listitem: 50MP + 5MP + 2MP | 13MP Front Camera
+- text: Most Helpful Review 4
+- img
+- paragraph: Worth the money
+- text: Such a good mobile at that price.
+- paragraph: Dvijesh Barad
+- img
+- paragraph: Certified Buyer
+- paragraph: 4 months ago
+- text: Recent Review 2
+- img
+- paragraph: Bad quality
+- text: Worst purchase from flipkart, just go for higher ram
+- paragraph: Suresh R
+- img
+- paragraph: Certified Buyer
+- paragraph: 3 days ago
+- contentinfo:
+  - text: ABOUT
+  - link "Contact Us":
+    - /url: /helpcentre?otracker=footer_navlinks
+  - link "About Us":
+    - /url: https://corporate.flipkart.net/corporate-home
+  - link "Careers":
+    - /url: https://www.flipkartcareers.com/?otracker=footer_navlinks
+  - link "Flipkart Stories":
+    - /url: http://stories.flipkart.com/?otracker=footer_navlinks
+  - link "Press":
+    - /url: http://stories.flipkart.com/category/top-stories/news/
+  - link "Corporate Information":
+    - /url: /corporate-information
+  - text: GROUP COMPANIES
+  - link "Myntra":
+    - /url: https://www.myntra.com/
+  - link "Cleartrip":
+    - /url: https://www.cleartrip.com/
+  - link "Shopsy":
+    - /url: https://www.shopsy.in/
+  - text: HELP
+  - link "Payments":
+    - /url: /pages/payments
+  - link "Shipping":
+    - /url: /pages/shipping
+  - link "Cancellation & Returns":
+    - /url: /helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+  - link "FAQ":
+    - /url: /helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+  - text: CONSUMER POLICY
+  - link "Cancellation & Returns":
+    - /url: /pages/returnpolicy?otracker=footer_navlinks
+  - link "Terms Of Use":
+    - /url: /pages/terms?otracker=footer_navlinks
+  - link "Security":
+    - /url: /pages/paymentsecurity?otracker=footer_navlinks
+  - link "Privacy":
+    - /url: /pages/privacypolicy?otracker=footer_navlinks
+  - link "Sitemap":
+    - /url: /sitemap?otracker=footer_navlinks
+  - link "Grievance Redressal":
+    - /url: /pages/grievance-redressal-mechanism?otracker=footer_navlinks
+  - link "EPR Compliance":
+    - /url: /pages/ewaste-compliance-tnc?otracker=footer_navlinks
+  - text: "Mail Us:"
+  - paragraph: Flipkart Internet Private Limited,
+  - paragraph: Buildings Alyssa, Begonia &
+  - paragraph: Clove Embassy Tech Village,
+  - paragraph: Outer Ring Road, Devarabeesanahalli Village,
+  - paragraph: Bengaluru, 560103,
+  - paragraph: Karnataka, India
+  - text: Social
+  - link:
+    - /url: https://www.facebook.com/flipkart
+    - img
+  - link:
+    - /url: https://www.twitter.com/flipkart
+    - img
+  - link:
+    - /url: https://www.youtube.com/flipkart
+    - img
+  - link:
+    - /url: https://www.instagram.com/flipkart
+    - img
+  - text: "Registered Office Address:"
+  - paragraph: Flipkart Internet Private Limited,
+  - paragraph: Buildings Alyssa, Begonia &
+  - paragraph: Clove Embassy Tech Village,
+  - paragraph: Outer Ring Road, Devarabeesanahalli Village,
+  - paragraph: Bengaluru, 560103,
+  - paragraph: Karnataka, India
+  - paragraph: "CIN : U51109KA2012PTC066107"
+  - paragraph:
+    - text: "Telephone:"
+    - link "044-45614700":
+      - /url: tel:044-45614700
+    - text: /
+    - link "044-67415800":
+      - /url: tel:044-67415800
+  - img
+  - link "Become a Seller":
+    - /url: https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+  - img
+  - link "Advertise":
+    - /url: https://brands.flipkart.com
+  - img
+  - link "Gift Cards":
+    - /url: /the-gift-card-store?otracker=footer_navlinks
+  - img
+  - link "Help Center":
+    - /url: /helpcentre?otracker=footer_navlinks
+  - text: © 2007-2025 Flipkart.com
+  - img
+```
