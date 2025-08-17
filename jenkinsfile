@@ -7,11 +7,10 @@ pipeline {
     stage('Install'){ steps { bat 'npm ci' ; bat 'npx playwright install' } }
     stage('Test'){ steps { bat "npm run %TestCasesGroup%" } }
   }
-  post {
-    always {
-      // Either generate static report, or use the Allure plugin below
-      bat 'npm run allure:report || exit /b 0'
-      // allure results: [[path: 'allure-results']]
-    }
+ post {
+  always {
+    bat 'npm run allure:report || exit /b 0'
+    archiveArtifacts artifacts: 'allure-report/**, allure-results/**, playwright-report/**', fingerprint: true, onlyIfSuccessful: false
   }
+}
 }
