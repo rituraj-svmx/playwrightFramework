@@ -1,5 +1,5 @@
 pipeline {
-  agent any
+  agent { label 'windows' }
   parameters {
     choice(name: 'TestCasesGroup', choices: ['Regression','web'], description: 'npm script to run')
   }
