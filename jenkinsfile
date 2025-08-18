@@ -9,15 +9,8 @@ pipeline {
   }
  post {
   always {
-    // Generate Allure HTML
-    bat 'npm run allure:report || exit /b 0'
-
-    // Zip the HTML so it can be attached
-    bat 'powershell -NoProfile -Command "if (Test-Path allure-report.zip) { Remove-Item -Force allure-report.zip }; Compress-Archive -Path \"allure-report\\*\" -DestinationPath \"allure-report.zip\" -Force"'
-
-    // Keep artifacts
-    archiveArtifacts artifacts: 'allure-report/**, allure-results/**, allure-report.zip, playwright-report/**', fingerprint: true, onlyIfSuccessful: false
-
+        allure results: [[path: 'allure-results']]
+      
     // Email with attachment + links
     emailext(
       to: 'rituraj1202.ranjan@gmail.com',
