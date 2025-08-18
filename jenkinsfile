@@ -9,7 +9,28 @@ pipeline {
   }
  post {
   always {
-    allure results: [[path: 'allure-results']]
+    // Generate Allure HTML
+    bat 'npm run allure:report || exit /b 0'
+
+    // Zip the HTML so it can be attached
+    bat 'powershell -NoProfile -Command "if (Test-Path allure-report.zip) { Remove-Item -Force allure-report.zip }; Compress-Archive -Path \"allure-report\\*\" -DestinationPath \"allure-report.zip\" -Force"'
+
+    // Keep artifacts
+    archiveArtifacts artifacts: 'allure-report/**, allure-results/**, allure-report.zip, playwright-report/**', fingerprint: true, onlyIfSuccessful: false
+
+    // Email with attachment + links
+    emailext(
+      to: 'rituraj1202.ranjan@gmail.com',
+      subject: "Playwright ${env.JOB_NAME} #${env.BUILD_NUMBER}: ${currentBuild.currentResult}",
+      mimeType: 'text/html',
+      body: """
+        <p>Build: <a href='${env.BUILD_URL}'>${env.JOB_NAME} #${env.BUILD_NUMBER}</a></p>
+        <p>Result: <b>${currentBuild.currentResult}</b></p>
+        <p>Allure HTML (artifact link): <a href='${env.BUILD_URL}artifact/allure-report/index.html'>open</a></p>
+        <p>Playwright report (artifact folder): <a href='${env.BUILD_URL}artifact/playwright-report/'>open</a></p>
+      """,
+      attachmentsPattern: 'allure-report.zip'
+    )
   }
 }
 }
