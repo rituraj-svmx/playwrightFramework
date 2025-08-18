@@ -9,8 +9,7 @@ pipeline {
   }
  post {
   always {
-    bat 'npm run allure:report || exit /b 0'
-    archiveArtifacts artifacts: 'allure-report/**, allure-results/**, playwright-report/**', fingerprint: true, onlyIfSuccessful: false
+    allure results: [[path: 'allure-results']]
   }
 }
 }
