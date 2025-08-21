@@ -4,16 +4,17 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-  "clean:allure": "powershell -NoProfile -Command \"if (Test-Path 'allure-results') { Remove-Item -Recurse -Force 'allure-results' }; if (Test-Path 'allure-report') { Remove-Item -Recurse -Force 'allure-report' }\"",
-  "Regression": "npm run clean:allure && npx playwright test --project=web",
-  "web": "npm run clean:allure && npx playwright test --project=web --grep @Web",
-  "allure:report": "allure generate allure-results --clean -o allure-report"
-},
+    "clean:allure": "powershell -NoProfile -Command \"if (Test-Path 'allure-results') { Remove-Item -Recurse -Force 'allure-results' }; if (Test-Path 'allure-report') { Remove-Item -Recurse -Force 'allure-report' }\"",
+    "Regression": "npm run clean:allure && npx playwright test --project=web",
+    "web": "npm run clean:allure && npx playwright test --project=web --grep @Web",
+    "allure:report": "allure generate allure-results --clean -o allure-report"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@azure/microsoft-playwright-testing": "^1.0.0-beta.7",
     "@playwright/test": "^1.54.2",
     "@types/node": "^24.0.10",
     "allure-playwright": "^3.3.3"
